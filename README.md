@@ -1,4 +1,3 @@
-- <img src="https://raw.githubusercontent.com/buildkite/emojis/main/img-buildkite-64/fsharp.png" width="20"/>Atm suffering in F# 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoii15&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
