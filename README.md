@@ -1,4 +1,3 @@
-## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoii15&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoii15&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
